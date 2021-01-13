@@ -1,4 +1,4 @@
-import requests, json, random
+import requests, json
 
 f = open("./README.md", "w")
 

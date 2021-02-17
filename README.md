@@ -5,5 +5,5 @@ Thanks for visiting my GitHub page.
 
 Here, a cat gif for you. Have a nice day!
 
-<img src="https://cdn2.thecatapi.com/images/MTc2MzA5MQ.gif" width="245" height="204">
+<img src="https://cdn2.thecatapi.com/images/2pe.gif" width="150" height="112">
 
